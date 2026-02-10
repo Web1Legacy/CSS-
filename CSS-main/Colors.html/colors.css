@@ -1,0 +1,12 @@
+body{
+    font-size: 20px;    
+    font-family: cursive; 
+    text-align: center;
+    color: beige;
+    background-color: brown;
+}
+
+article{
+    background-color: lightyellow;
+    color: maroon;
+}

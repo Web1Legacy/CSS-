@@ -1,0 +1,20 @@
+main{
+    border: 2px solid black;
+    /* border-radius: 5%; */
+    /* width: 50%; */
+    /* %, vw(view width), vh(view height), px(pixels), em(Elements), rem(Root Element)*/
+    width: 50vw;
+}
+
+/* html{
+    font-size: 1em;
+} */
+
+section{
+    border: 2px dotted brown;
+    width: 50vw;
+}
+
+h2{
+   font-size: 30px; 
+}

@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+div{
+    border: 12px solid yellowgreen;
+    padding: 35px 20px;
+    margin: 25px 25px;
+     width: 250px;
+    height: 250px;
+   
+}
